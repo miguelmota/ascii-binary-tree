@@ -1,7 +1,7 @@
 {
   "name": "ascii-binary-tree",
   "version": "0.0.1",
-  "description": "Print simple ascii binary trees",
+  "description": "Print simple ascii binary trees in JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js",

@@ -1,6 +1,8 @@
 # ascii-binary-tree
 
-> Print simple ascii binary trees
+> Print simple ascii binary trees in JavasScript
+
+![Example](https://user-images.githubusercontent.com/168240/201101143-819daf56-40b4-4ce9-ae92-4e2fa5eab369.png)
 
 ## Install
 
